@@ -22,3 +22,31 @@
 - **3 pm** – Break
 - **3:30 pm** – Videos and model improvements
 - **4 pm** – Done for the day.
+
+### Sunday
+
+- **11:30 am** – Sort, explore, and get insights from gigabytes of text documents.
+    - spaCy for entity extraction
+    - quick break
+    - discussion of word vectors
+    - spaCy for document similarity
+- **1:30 pm**  – Lunch 
+    – Demos of third-party tools
+    - [DocumentCloud](https://www.documentcloud.org/faq#faq-analyzing-1)
+    - [Trint](https://trint.com/)
+    - [Google NLP](https://cloud.google.com/natural-language/)
+    - Clarif.ai
+    - [hotduck.today](http://hotduck.today)
+- **2:30 pm** – Document sorting (aka classification)
+    - Discussion of language models
+    - Classify Tweets
+- **3:30 pm** – How you take this home
+    - Loading your own data into a Google colab notebook
+	`zip -r my-folder.zip my-folder -x "*.DS_Store"``
+    - Saving models review
+    - Using your computer for prediction
+    - Using AWS: [fast.ai docs](https://course.fast.ai/)
+    - Other services there
+    - Using Render
+- **4:30 pm** - Follow-up discussions and help with anything learned over the weekend. Also a discussion spotting and managing issues of data bias. Finally, we'll talk about any projects *you* are thinking about, and how machine learning might help.
+- **5 pm** – Done for the day
