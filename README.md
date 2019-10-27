@@ -26,6 +26,8 @@
 ### Sunday
 
 - **11:30 am** – Sort, explore, and get insights from gigabytes of text documents.
+    - jump into notebook `ii-extracting-entities-plus-similarity` right away to load stuff
+    - discussion of [spaCy pretrained models](https://spacy.io/models/en)
     - spaCy for entity extraction
     - quick break
     - discussion of word vectors
