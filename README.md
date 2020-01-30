@@ -4,7 +4,6 @@
 
 ### Saturday
 
-
 - **10 am** AI for journalism investigations
     - Slides
     - Examples:
