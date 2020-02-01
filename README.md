@@ -15,9 +15,9 @@
         - Data as images [example](https://www.splunk.com/blog/2017/04/18/deep-learning-with-splunk-and-tensorflow-for-security-catching-the-fraudster-in-neural-networks-with-behavioral-biometrics.html) [Images](https://www.splunk.com/content/dam/splunk-blogs/images/2017/04/gleb-esman/03-mouse-movements-images-900x.jpg)
 
 - Using machine learning to classify images
-    - [Quartz AI Workshops Github](https://bit.ly/ai-workshops)
     - [Google Colaboartory notebooks](https://colab.research.google.com)
         - Hands-on: `aa-using-google-colab.ipynb`
+    - [Quartz AI Workshops Github](https://bit.ly/ai-workshops)
     - Label images with ResNet
         - Hands-on: `bb-label-images-with-resnet.ipynb`
     - [Google Vision AI](cloud.google.com/vision) 
