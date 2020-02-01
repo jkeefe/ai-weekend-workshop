@@ -5,7 +5,6 @@
 ### Saturday
 
 - **10 am** Welcome! AI for journalism investigations
-    - Slides
     - Examples:
         - [Finding surveillance planes](https://www.buzzfeednews.com/article/peteraldhous/hidden-spy-planes)
         - [Finding sexual misconduct](http://doctors.ajc.com/about_this_investigation/)
